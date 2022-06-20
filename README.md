@@ -60,4 +60,8 @@
 
 [30_Reinforcement Learning_P3](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/30_Reinforcement%20Learning_P3.html)
 
+<<<<<<< Updated upstream
 Merge Test2 
+=======
+fdgdfgfd
+>>>>>>> Stashed changes
